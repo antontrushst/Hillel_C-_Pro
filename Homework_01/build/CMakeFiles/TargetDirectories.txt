@@ -1,0 +1,8 @@
+C:/Users/Soft Tiger/Documents/Hillel_CPP_Pro/Homework_01/build/CMakeFiles/edit_cache.dir
+C:/Users/Soft Tiger/Documents/Hillel_CPP_Pro/Homework_01/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Soft Tiger/Documents/Hillel_CPP_Pro/Homework_01/build/lib_math/CMakeFiles/MathFuncs.dir
+C:/Users/Soft Tiger/Documents/Hillel_CPP_Pro/Homework_01/build/lib_math/CMakeFiles/edit_cache.dir
+C:/Users/Soft Tiger/Documents/Hillel_CPP_Pro/Homework_01/build/lib_math/CMakeFiles/rebuild_cache.dir
+C:/Users/Soft Tiger/Documents/Hillel_CPP_Pro/Homework_01/build/src/CMakeFiles/main_app.dir
+C:/Users/Soft Tiger/Documents/Hillel_CPP_Pro/Homework_01/build/src/CMakeFiles/edit_cache.dir
+C:/Users/Soft Tiger/Documents/Hillel_CPP_Pro/Homework_01/build/src/CMakeFiles/rebuild_cache.dir

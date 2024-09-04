@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libMathFuncs.a CMakeFiles/MathFuncs.dir/MathFuncs.cpp.obj
+C:\mingw64\bin\ranlib.exe libMathFuncs.a
